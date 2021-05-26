@@ -10,7 +10,7 @@ public class StringBufferDemo {
 		System.out.println(sb1.reverse());
 		
 		System.out.println(sb1.equals(sb2));
-// In String Buffer Class equals method is not overidden for content comparison
+// In String Buffer Class equals method is not overridden for content comparison
 	}
 
 }

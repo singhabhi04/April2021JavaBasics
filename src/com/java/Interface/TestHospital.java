@@ -14,7 +14,7 @@ public class TestHospital {
 		USMedical us = new FortisHospital();
 		 //Child class Object can be Referred by Parent Interface Refrence variable
 		//but we can access Method of that Interface Only
-		//We cannot access FortisHospital owm mwthods as well
+		//We cannot access FortisHospital own methods as well
 		
 		us.ambulanceService();
 		us.daibeticService();
